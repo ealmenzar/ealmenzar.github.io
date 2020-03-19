@@ -16,7 +16,7 @@ section {
 }
 /* HEADER */
 .text-white {
-    color: rgb(51, 58, 64)!important;
+    color: rgb(255, 255, 255)!important;
 }
 .bg-primary {
     background-color: #000000!important;
@@ -27,11 +27,12 @@ section {
 	text-align: right;
 }
 .h3, h3 {
-	font-size: 0.95rem;
+	font-size: 1.25rem;
 	font-style: italic;
 	padding-top: 15px;
 }
 .lead {
     font-size: 1rem;
     font-weight: lighter;
+    color: #636363;
 }
