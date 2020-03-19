@@ -10,7 +10,28 @@ header {
 section {
   padding: 150px 0;
 }
-
+/* MENU */
+.bg-dark {
+    background-color: rgba(0, 0, 0, 0.85)!important;
+}
+/* HEADER */
+.text-white {
+    color: rgb(51, 58, 64)!important;
+}
 .bg-primary {
-    background-color: #cfccff!important;
+    background-color: #000000!important;
+}
+/* SECTIONS */
+.h2, h2 {
+	color: background-color: #000000!important;
+	text-align: right;
+}
+.h3, h3 {
+	font-size: 0.95rem;
+	font-style: italic;
+	padding-top: 15px;
+}
+.lead {
+    font-size: 1rem;
+    font-weight: lighter;
 }
