@@ -30,9 +30,15 @@ section {
 	font-size: 1.25rem;
 	font-style: italic;
 	padding-top: 15px;
+	margin-bottom: 0px;
+}
+.h4, h4 {
+    font-size: 0.95rem;
+    font-weight: lighter;
+    font-style: italic;
 }
 .lead {
-    font-size: 1rem;
+    font-size: 0.9rem;
     font-weight: lighter;
     color: #636363;
 }
