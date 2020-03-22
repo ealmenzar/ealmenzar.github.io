@@ -39,9 +39,23 @@ section {
 }
 .lead {
     font-size: 0.9rem;
-    font-weight: lighter;
-    color: #636363;
+    font-weight: 400;
+    color: #383d41;
 }
 .btn-github {
-	padding-left: 2px;
+    margin-left: .5rem
+}
+.btn-right {
+    text-align: right;
+}
+
+/* FOOTER */
+
+.copyleft {
+  display:inline-block;
+  transform: rotate(180deg);
+}
+
+.h3 .btn-xs {
+    text-align: right;
 }
