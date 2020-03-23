@@ -26,15 +26,26 @@ section {
     font-weight: 400;
     color: #6c757d;
 }
+.h1, h1 {
+    /*font-family: 'Unica One', cursive;*/
+    /*font-family: 'Khand', sans-serif;*/
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+.nav-link, .navbar-brand {
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+
 /* SECTIONS */
 .h2, h2 {
 	color: background-color: #000000!important;
 	text-align: right;
-    /*font-family: 'Parisienne', cursive; */
+    /*font-family: 'Unica One', cursive;*/
+    /*font-family: 'Khand', sans-serif;*/
+    font-family: 'Nanum Gothic Coding', monospace;
 }
 .h3, h3 {
 	font-size: 1.25rem;
-	font-style: italic;
+	/*font-style: italic;*/
 	padding-top: 15px;
 	margin-bottom: 0px;
 }
