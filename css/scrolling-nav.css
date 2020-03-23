@@ -48,6 +48,10 @@ section {
 .btn-right {
     text-align: right;
 }
+.fa-python, .fa-chart-bar, .fa-robot, .fa-java, .fa-react, .fa-palette, .fa-heartbeat {
+    font-size: x-large;
+    margin-right: .5rem;
+}
 
 /* FOOTER */
 
