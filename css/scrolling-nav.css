@@ -41,6 +41,8 @@ section {
     font-size: 0.9rem;
     font-weight: 400;
     color: #383d41;
+    margin-bottom: .5rem;
+    text-align: justify;
 }
 .btn-github {
     margin-left: .5rem
@@ -49,8 +51,13 @@ section {
     text-align: right;
 }
 .fa-python, .fa-chart-bar, .fa-robot, .fa-java, .fa-react, .fa-palette, .fa-heartbeat {
-    font-size: x-large;
+    font-size: large;
     margin-right: .5rem;
+}
+
+.project-icons {
+    margin-left: 50%;
+    margin-bottom: 1rem;
 }
 
 /* FOOTER */
