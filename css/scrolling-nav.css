@@ -21,10 +21,16 @@ section {
 .bg-primary {
     background-color: #000000!important;
 }
+.subtitle {
+    text-align: center;
+    font-weight: 400;
+    color: #6c757d;
+}
 /* SECTIONS */
 .h2, h2 {
 	color: background-color: #000000!important;
 	text-align: right;
+    /*font-family: 'Parisienne', cursive; */
 }
 .h3, h3 {
 	font-size: 1.25rem;
@@ -55,8 +61,14 @@ section {
     margin-right: .5rem;
 }
 
+.cib-arduino, .cib-r, .cib-rstudio {
+    font-size: large;
+    vertical-align: middle;
+    margin-right: .5rem;
+}
+
 .project-icons {
-    margin-left: 50%;
+    text-align: center;
     margin-bottom: 1rem;
 }
 
