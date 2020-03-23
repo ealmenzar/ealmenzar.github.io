@@ -62,8 +62,12 @@ section {
     text-align: justify;
 }
 .btn-github {
-    margin-left: .5rem
+    /*margin-left: .5rem*/
 }
+.fa {
+    font-size: x-large!important;
+}
+
 .btn-right {
     text-align: right;
 }
