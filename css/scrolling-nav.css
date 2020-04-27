@@ -61,8 +61,19 @@ section {
     margin-bottom: .5rem;
     text-align: justify;
 }
+
 .btn-github {
-    /*margin-left: .5rem*/
+    color: #383d41;
+    background-color: #44444400;
+    border-color: rgb(0, 0, 0);
+    margin-left: .5rem;
+    padding: .1rem .25rem;
+    position: sticky;
+    left: 75%;
+}
+.viewon {
+    font-size: small;
+    vertical-align: text-bottom;
 }
 .fa {
     font-size: x-large!important;
