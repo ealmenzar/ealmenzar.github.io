@@ -36,6 +36,9 @@ section {
 }
 
 /* SECTIONS */
+.extra-section {
+    padding-top: 150px;
+}
 .h2, h2 {
 	color: background-color: #000000!important;
 	text-align: right;
