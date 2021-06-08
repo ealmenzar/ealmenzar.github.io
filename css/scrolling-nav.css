@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
 header {
-  padding: 156px 0 100px;
+  padding: 200px 350px 15px 0;
 }
 
 section {
@@ -20,11 +20,12 @@ section {
 }
 .bg-primary {
     background-color: #000000!important;
+    background-image: url("me.png");
 }
 .subtitle {
     text-align: center;
     font-weight: 400;
-    color: #6c757d;
+    color: #f8f9fa;
 }
 .h1, h1 {
     /*font-family: 'Unica One', cursive;*/
